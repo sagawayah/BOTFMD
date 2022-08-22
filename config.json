@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6285867679198@s.whatsapp.net","6285867679198@s.whatsapp.net"],
+    "ownerName": "Payiii",
+    "instagram" : "https://instagram.com/rii.pay29",
+    "botName": "Payii-BOTོ ",
+    "footer": "©Payyii-BOT",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
